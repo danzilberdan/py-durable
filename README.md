@@ -16,8 +16,11 @@ Many of these challanges arise from the fact that we don't trust in-memory state
 - **Serverless** - Deploy faster without the need to maintain servers.
 - **Cost** - Pay-per-use model. Idle long-running functions incur no compute costs.
 
-## Support
-Currently only AWS Lambda functions are supported.
-
 ## Getting Started
-Check the [Gettings Started](./GETTING_STARTED.md) guide.
+Checkout the [Gettings Started](./GETTING_STARTED.md) guide.
+
+## Stack
+The current stack is based on:
+- AWS Lambda
+- Python for definition of workflows and activities
+- Temporal as durable execution engine of choice
