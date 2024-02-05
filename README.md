@@ -19,6 +19,7 @@ Many of these challanges arise from the fact that we don't trust in-memory state
 ## Getting Started
 - Checkout the [Gettings Started](./GETTING_STARTED.md) guide for a more in-depth explanation.
 - Checkout the [Starter Project](https://github.com/danzilberdan/Durable-Serverless-Starter) to see the an actual code example.
+- Checkout the [Setup Guide](https://github.com/danzilberdan/Durable-Serverless-Starter/blob/main/SETUP.md).
 
 ## Stack
 The current stack is based on:

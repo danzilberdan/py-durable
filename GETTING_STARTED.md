@@ -16,8 +16,8 @@ Activities are pieces of non-deterministic functionality. For example, a call to
 Serverless execution is an abstraction that enables developers to write and deploy functions to the cloud. Managing servers and scheduling the execution of those functions is done by the cloud provider
 
 ## Project Setup
-Checkout the example project [here](https://github.com/danzilberdan/Durable-Serverless-Starter).
-The full setup of the project is documented [here](https://github.com/danzilberdan/Durable-Serverless-Starter/blob/main/SETUP.md).
+- Checkout the [Starter Project](https://github.com/danzilberdan/Durable-Serverless-Starter) to see the an actual code example.
+- Checkout the [Setup Guide](https://github.com/danzilberdan/Durable-Serverless-Starter/blob/main/SETUP.md).
 
 ## SDK docs
 You can checkout more in-depth examples of durable function development in Temporal's python [sdk docs](https://docs.temporal.io/dev-guide/python).
