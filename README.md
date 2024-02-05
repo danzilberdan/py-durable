@@ -17,7 +17,8 @@ Many of these challanges arise from the fact that we don't trust in-memory state
 - **Cost** - Pay-per-use model. Idle long-running functions incur no compute costs.
 
 ## Getting Started
-Checkout the [Gettings Started](./GETTING_STARTED.md) guide.
+- Checkout the [Gettings Started](./GETTING_STARTED.md) guide for a more in-depth explanation.
+- Checkout the [Starter Project](https://github.com/danzilberdan/Durable-Serverless-Starter) to see the an actual code example.
 
 ## Stack
 The current stack is based on:
