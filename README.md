@@ -1,3 +1,5 @@
+This project is deprecated.
+
 # Durable Serverless
 Build serverless stateful applications in python with zero complexity.
 
